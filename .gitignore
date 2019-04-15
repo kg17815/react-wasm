@@ -12,3 +12,6 @@ _book
 temp
 TODO.md
 package-lock.json
+\.idea/
+
+react-wasm\.iml
